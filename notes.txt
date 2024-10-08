@@ -1,0 +1,31 @@
+# include
+- jupyter notebook
+- csv files
+
+Select Data Analyst Solvable Problem
+First choose a topic of interest; then, within your topic, select a problem that you can answer using a data analytics approach. Make sure that this problem can be solved in a reasonable amount of time and with available data. If the problem is too complex, it might be worth breaking it down into smaller units.
+
+Main components that you will want to include:
+
+-Topic eg. E-commerce
+-Problem eg. A/B testing
+-How will EDA be used eg. using summary statistics and visualizations to select the best layout in an A/B test
+
+#Possible topics:
+
+credit risk
+fintech
+financial markets
+
+
+
+# Possible Dataset, downloaded to c:/users/me/data science...
+
+https://ratingshistory.info
+20240715 Moody's Investors Service US Public.csv (4733290 lines)
+Dictionary:
+https://www.sec.gov/structureddata/rocr-publication-guide
+
+Using chatgpt to interpret
+
+
